@@ -7,9 +7,10 @@ export const getAsset = (path: string) => {
 const siteConfig = {
   personal: {
     name: 'Arju Sinha',
-    title: 'Student | Multimodal AI Researcher',
+    title: 'Student | Christ University',
     image: getAsset('images/profile.png'), // Resolves to /profile.png or /base-path/profile.png
-    description: 'Chandravesh Chaudhari, Ph.D. is an academic and practitioner working at the intersection of business analytics, machine learning, and technology-driven decision-making. His research and teaching focus on applying data science and emerging technologies to solve complex problems in business, economics, and management.\n' +
+    description: 'Arju Sinha is an emerging economics student and researcher with interests across labour markets, development policy, urban economics, and macroeconomic analysis. She has worked on academic projects involving field research in major junctions of Bangalore, studying the challenges faced by diverse groups such as residents, daily commuters, migrants, and local businesses. Her academic work spans topics including wage structures, labour market discrimination, political economy debates, urban development, and international macroeconomic comparisons.
+.\n' +
         '\n' +
         'Chandravesh teaches in the School of Business and Management at Christ University, where he has guided numerous students and professionals in mastering advanced Excel, Python, machine learning, and applied analytics. He is deeply involved in curriculum design, research mentorship, and capacity building for industry-oriented business analytics education.\n' +
         '\n' +
