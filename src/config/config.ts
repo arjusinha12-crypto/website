@@ -12,11 +12,11 @@ const siteConfig = {
     description: 'Arju Sinha is an emerging economics student and researcher with interests across labour markets, development policy, urban economics, and macroeconomic analysis. She has worked on academic projects involving field research in major junctions of Bangalore, studying the challenges faced by diverse groups such as residents, daily commuters, migrants, and local businesses. Her academic work spans topics including wage structures, labour market discrimination, political economy debates, urban development, and international macroeconomic comparisons.
 .\n' +
         '\n' +
-        'Chandravesh teaches in the School of Business and Management at Christ University, where he has guided numerous students and professionals in mastering advanced Excel, Python, machine learning, and applied analytics. He is deeply involved in curriculum design, research mentorship, and capacity building for industry-oriented business analytics education.\n' +
+        'Arju Sinha is an economics student at Christ University with a strong foundation in research, digital marketing, and analytical thinking. She has contributed to market research projects, supported digital marketing campaigns, and created engaging content across blogs, newsletters, and social media platforms. She is skilled in teamwork, problem-solving, and communication, and is continuously building her capabilities through hands-on internships and professional training. Arju is committed to expanding her expertise and applying her transferable skills to drive meaningful outcomes in diverse professional environments.\n' +
         '\n' +
-        'He earned his Ph.D. from Christ University, holds an Masters in Finance, and has completed specialized certifications in analytics and programming. His academic work emphasizes bridging theoretical concepts with real-world applications, particularly in domains such as financial analytics, business intelligence, and operational optimization.\n' +
+        'She is currently pursuing her B.A. in Economics at Christ University and has supplemented her academic learning with practical training in digital marketing. She has completed industry-oriented coursework that strengthens her analytical, research, and problem-solving abilities. Her academic journey focuses on understanding economic concepts and applying them to real-world contexts, particularly in areas such as market research, consumer behavior, and digital-driven business strategies. She continues to build her skills through hands-on projects and professional certifications to bridge theory with practical application..\n' +
         '\n' +
-        'Chandravesh is the author of books “Programming for Machine Learning and Business” and “Machine Learning for Business". He regularly conducts training programs and workshops for professionals and students, focusing on making advanced analytical methods accessible and impactful.',
+        'Arju has contributed to content creation through her internship at Bharat Natural Private Limited, where she developed engaging blog posts, newsletters, and social media content aimed at improving audience reach and brand visibility. She actively participates in projects and training programs that enhance her understanding of digital marketing and analytics. Through these experiences, she focuses on making research-driven insights and creative communication more accessible and impactful for diverse audiences.',
     tagline: 'Empowering business through data-driven intelligence.',
   location: 'Bangalore, India',
   },
@@ -301,8 +301,8 @@ certifications: [
   ],
 
   contact: {
-    email: 'chandraveshchaudhari@gmail.com',
-    linkedin: 'https://www.linkedin.com/in/chandravesh-chaudhari/',
+    email: 'arjusinha12@gmail.com',
+    linkedin: 'www.linkedin.com/in/arju-sinha-370409299/',
     github: 'https://github.com/chandraveshchaudhari',
     googleScholar: 'https://scholar.google.com/citations?authuser=1&user=V78qbA8AAAAJ',
   orcid: 'https://orcid.org/0000-0003-1053-7541',
